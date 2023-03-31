@@ -1,3 +1,0 @@
-Profe no tenemos licencia de microsoft y tambien queriamos innovar.
-
-https://github.com/Rodrigomelend13/TicTacToe-refactorizado.git
